@@ -1,0 +1,21 @@
+
+Читать:
+1. Внутренние классы в Java (inner classes java):
+  1) http://www.quizful.net/post/inner-classes-java
+  2) http://www.javenue.info/post/7
+2. Читам про Git:
+ https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9
+3. Maven
+https://proselyte.net/tutorials/maven/repositories/
+4. Читаем документацию:
+https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+5. Блинов глава 5
+
+
+
+Практика:
+1. небольшой курс https://stepik.org/course/6864
+2. Экспериментируем с гитом
+3. https://docs.oracle.com/javase/tutorial/java/javaOO/QandE/nested-questions.html
+4. Создать класс Notepad с внутренним классом или классами, с помощью объектов
+ которого могут храниться несколько записей на одну дату.

@@ -1,0 +1,36 @@
+1. Модификаторы доступа http://www.quizful.net/post/features-of-the-application-of-modifiers-in-java
+2. Блинов глава 3-4
+3. Шилд глава 8-9
+4. https://jsehelper.blogspot.com/2016/01/blog-post_59.html 
+До конца следующее недели пройти полностью вопросы JAVA CORE
+5. https://codegalaxy.io/course/java
+   Пройти тесты по темам: 
+   1) Java specifications, JVM
+   2) Main method, declaring variables
+   3) If else, switch and loops
+   4) Arrays
+   5) Initialization of classes and fields
+   6) Methods declarations and execution
+   7) Operators
+   8) Public, private, protected, packages
+   9) Inheritance and polymorphism
+
+Git:
+1. https://www.youtube.com/watch?v=PEKN8NtBDQ0 серия уроков.
+
+Maven
+1. http://www.apache-maven.ru/
+
+
+Практическое задание:
+
+Создать приложение, удовлетворяющее требованиям, приведенным в задании.
+Наследование применять только в тех заданиях, в которых это логически
+обосновано. Аргументировать принадлежность классу каждого создаваемого
+метода и корректно переопределить для каждого класса методы equals(),
+hashCode(), toString().
+
+Создать объект класса Звездная система, используя классы Планета,
+Звезда, Луна (так же можно добавить и классы, которые описываю другие
+космические объекты). Методы: вывести на консоль количество планет в звездной
+системе, название звезды, добавление планеты в систему.

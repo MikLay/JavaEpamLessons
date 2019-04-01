@@ -1,0 +1,30 @@
+Полезные ссылки:
+1.http://www.quizful.net (обратить внимание на англ. версию)
+2.https://stepik.org
+3.http://sql-ex.ru/
+
+Материал:
+1. Шилд java 8 издание 2015 глава 1- глава 6
+2. https://careers.epam.by/content/dam/epam/by/book_epam_by/JAVA_Methods_Programming_v2.march2015.pdf
+И.Н.БЛИНОВ В.С.РОМАНЧИК  Java методы программирования ст.12-130
+
+
+Примитивные типы, и объекты:   https://habr.com/ru/post/49582/
+Пулл строк:                    https://javadevblog.com/chto-takoe-pul-strok-v-java.html
+JVM, JRE, JDK:                 https://howtodoinjava.com/java/basics/jdk-jre-jvm/
+Типы сортировок в Java:        http://sorting.at/
+                               https://habr.com/ru/post/188010/
+
+Максимальный размер в массивах: https://ru.stackoverflow.com/questions/658757/
+
+
+HW1:
+1) настроить среду разработки.
+2) java 8
+3) maven 3.3.6.
+4) git bash
+5) Почитать про побитовые операции.(рекомендуюу в Шилде и 
+так же https://www.tutorialspoint.com/Java-Shift-Operator-Examples)
+6) Написать рекрсивный и не рекурсивный метод нахождения числа фибоначчи по его порядковому номеру.
+https://en.wikipedia.org/wiki/Fibonacci_number
+         
