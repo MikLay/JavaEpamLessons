@@ -1,0 +1,18 @@
+__________________________________________________
+__________________________________________________
+RANDOM DATA
+------------------------------
+Algorithm: IMPROVED QUICKSORT
+Sorting 1_000_000: 542264.0 nanoseconds
+------------------------------
+Algorithm: COMBSORT
+Sorting 1_000_000: 1457258.0 nanoseconds
+------------------------------
+Algorithm: HEAPSORT
+Sorting 1_000_000: 1170324.0 nanoseconds
+------------------------------
+Algorithm: SHELLSORT
+Sorting 1_000_000: 1926155.0 nanoseconds
+------------------------------
+Algorithm: IMPROVED MERGESORT
+Sorting 1_000_000: 7.5993434E7 nanoseconds
