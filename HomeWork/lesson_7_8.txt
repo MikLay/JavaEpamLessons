@@ -1,0 +1,43 @@
+1. (И задания к уроку 5) https://codegalaxy.io/course/java
+   Пройти тесты по темам: 
+   1) Java specifications, JVM
+   2) Main method, declaring variables
+   3) If else, switch and loops
+   4) Arrays
+   5) Initialization of classes and fields
+   6) Methods declarations and execution
+   7) Operators
+   8) Public, private, protected, packages
+   9) Inheritance and polymorphism
+Эти тесты вы должны были уже пройти. Кто не успел, допроходите. 
+
+2. Почитайте про порождающие паттерны 
+   1) https://refactoring.guru/ru/design-patterns/creational-patterns
+   2) https://www.tutorialspoint.com/design_pattern/
+   3) https://habr.com/ru/post/210288/
+   4) Builder https://vertex-academy.com/tutorials/ru/pattern-builder-java/
+   5) Sinlton https://vertex-academy.com/tutorials/ru/pattern-singleton-realizacii/
+
+3. Практика по паттернам:
+
+1) Паттерн Abstract Factory. Разработать систему Кинопрокат. Пользователь может
+ выбрать определенную киноленту, при заказе киноленты указывается язык 
+звуковой дорожки, который совпадает с языком файла субтитров. Система 
+должна поставлять фильм с требуемыми характеристиками, причем при смене 
+языка звуковой дорожки должен меняться и язык файла субтитров и наоборот.
+
+2) Паттерн Factory Method. Фигуры игры «тетрис». Реализовать процесс случайного
+выбора фигуры из конечного набора фигур. Предусмотреть появление супер-фигур с
+ большим числом клеток, чем обычные.
+
+4. Почитать про классы String, StringBuffer, StringBuilder
+
+5. https://stepik.org/course/6859
+
+6. Maven https://proselyte.net/tutorials/maven/
+
+7. JUnit https://habr.com/ru/post/120101/
+
+8. Mockito https://habr.com/ru/post/243155/
+
+ 
