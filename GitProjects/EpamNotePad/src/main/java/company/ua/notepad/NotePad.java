@@ -8,7 +8,7 @@ public class NotePad {
 
     private List<Note> notes;
 
-    public NotePad(List<Note> notes) {
+    NotePad(List<Note> notes) {
         this.notes = notes;
     }
 

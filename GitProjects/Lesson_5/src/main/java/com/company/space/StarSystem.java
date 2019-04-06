@@ -63,13 +63,11 @@ public class StarSystem {
                 ";";
     }
 
-    public void addPlanet(Planet planet)
-    {
+    public void addPlanet(Planet planet) {
         planets.add(planet);
     }
 
-    public int countPlanetsInSystem()
-    {
+    public int countPlanetsInSystem() {
         return planets.size();
     }
 }
